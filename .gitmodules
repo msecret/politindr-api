@@ -1,0 +1,3 @@
+[submodule "lib/python-crpapi"]
+	path = lib/python-crpapi
+	url = https://github.com/opensecrets/python-crpapi.git
