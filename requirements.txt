@@ -4,5 +4,4 @@ MarkupSafe==0.19
 Werkzeug==0.9.4
 argparse==1.2.1
 itsdangerous==0.24
-python-crpapi==0.1.0
 wsgiref==0.1.2
